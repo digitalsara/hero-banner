@@ -6,6 +6,24 @@ html {
   box-sizing: inherit;
 }
 
-img {
+body {
+  margin: 0;
+  font-family: Open Sans, sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+.banner {
+  position: relative;
+}
+
+.img-flex img {
+  position: absolute;
   width: 100%;
 }
