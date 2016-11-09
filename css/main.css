@@ -11,21 +11,6 @@ body {
   font-family: Open Sans, sans-serif;
 }
 
-h1 {
-  font-size: 4rem;
-  font-weight: bold;
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
-  left: 50%;
-  position: absolute;
-  transform: translateX(-50%);
-}
-
-/*.title {
-  position: relative;
-  top: -50px;
-}*/
-
 p {
   font-size: 2rem;
   font-style: italic;
