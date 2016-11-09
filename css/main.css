@@ -33,3 +33,13 @@ p {
   overflow: hidden;
   width: 100%;
 }
+
+.title {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 2em;
+}
+
+.img-flex {
+  max-height: 500px;
+}
