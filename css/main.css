@@ -13,17 +13,23 @@ body {
 
 h1 {
   font-size: 4rem;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 p {
   font-size: 2rem;
+  font-style: italic;
 }
 
-.banner {
+.img-flex {
+  padding: 0 1rem;
   position: relative;
+  overflow: hidden;
 }
 
-.img-flex img {
+.banner img {
   position: absolute;
   width: 100%;
+  max-height: 500px;
 }
