@@ -38,8 +38,8 @@ p {
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
   font-size: 2em;
-}
-
-.img-flex {
-  max-height: 500px;
+  left: 50%;
+  bottom: 4em;
+  position: absolute;
+  transform: translateX(-50%);
 }
