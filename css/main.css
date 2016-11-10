@@ -8,17 +8,17 @@ html {
 
 body {
   margin: 0;
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 p {
   font-size: 2rem;
   font-style: italic;
-  left: 50%;
-  bottom: -1em;
+  left: 45%;
+  bottom: 1em;
   position: absolute;
   transform: translateX(-50%);
-  width: 640px;
+  width: 670px;
 }
 
 .content {
@@ -28,8 +28,9 @@ p {
   bottom: 20px;
 }
 
-.banner img {
-  width:100%;
+.img-flex {
+  width: 100%;
+  display: block;
 }
 
 .banner {
@@ -40,16 +41,18 @@ p {
 }
 
 .title {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-size: 2em;
-  left: 50%;
+  left: 45%;
   bottom: 4em;
+  margin-bottom: 40px;
   position: absolute;
   transform: translateX(-50%);
-  width: 640px;
+  width: 650px;
 }
 
-h1 {
+h2 {
   margin: 0;
+  font-size: 4rem;
 }
