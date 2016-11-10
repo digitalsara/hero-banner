@@ -14,8 +14,8 @@ body {
 p {
   font-size: 2rem;
   font-style: italic;
-  left: 45%;
-  bottom: 1em;
+  left: 48%;
+  bottom: .5em;
   position: absolute;
   transform: translateX(-50%);
   width: 670px;
@@ -42,9 +42,9 @@ p {
 
 .title {
   font-size: 2em;
-  left: 45%;
+  left: 48%;
   bottom: 4em;
-  margin-bottom: 40px;
+  margin-bottom: 38px;
   position: absolute;
   transform: translateX(-50%);
   width: 650px;
