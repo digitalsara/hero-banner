@@ -41,8 +41,6 @@ p {
 }
 
 .title {
-  background-color: rgba(0, 0, 0, .5);
-  color: #fff;
   font-size: 2em;
   left: 45%;
   bottom: 4em;
@@ -53,6 +51,9 @@ p {
 }
 
 h2 {
-  margin: 0;
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  display: inline;
+  padding: 1px;
   font-size: 4rem;
 }
